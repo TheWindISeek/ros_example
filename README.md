@@ -1,4 +1,4 @@
-# ros2-solaris
+# ros2_example
 
 This is a project for starting evaluate an experiment of ros 2.
 Thus some node, callback and component are offered to copy.

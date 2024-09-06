@@ -1,5 +1,5 @@
 {
-    "cmake.sourceDirectory": "/home/lucifer/Codes/ros2-solaris/src/ros-example",
+    "cmake.sourceDirectory": "/home/lucifer/Codes/ros-example/src/ros_example",
     "cmake.configureOnOpen": true,
     "C_Cpp.default.compilerPath": "/usr/bin/gcc",
     "files.associations": {
